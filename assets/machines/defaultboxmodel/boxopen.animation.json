@@ -1,0 +1,160 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"Botarium.anim.deploy": {
+			"loop": true,
+			"animation_length": 3,
+			"bones": {
+				"Box": {
+					"rotation": {
+						"vector": [0, 0, 0]
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					},
+					"scale": {
+						"0.36": {
+							"vector": [1, 1, 1]
+						},
+						"1.16": {
+							"vector": [1, 1.15, 1],
+							"easing": "easeInOutQuad"
+						},
+						"2.36": {
+							"vector": [1, 1, 1]
+						},
+						"2.76": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"frontpanel": {
+					"rotation": {
+						"0.2": {
+							"vector": [0, 0, 0]
+						},
+						"1.6": {
+							"vector": [90, 0, 0],
+							"easing": "easeInOutSine"
+						}
+					},
+					"position": {
+						"0.2": {
+							"vector": [0, 0, 0]
+						},
+						"1.6": {
+							"vector": [0, 0, 0],
+							"easing": "easeInOutElastic"
+						},
+						"2.2": {
+							"vector": [0, 0, 16]
+						}
+					},
+					"scale": {
+						"vector": [1, 1, 1]
+					}
+				},
+				"rightpanel": {
+					"rotation": {
+						"0.2": {
+							"vector": [0, 0, 0]
+						},
+						"1.6": {
+							"vector": [0, 0, 90],
+							"easing": "easeInOutSine"
+						}
+					},
+					"position": {
+						"0.2": {
+							"vector": [0, 0, 0]
+						},
+						"1.6": {
+							"vector": [0, 0, 0],
+							"easing": "easeInOutElastic"
+						},
+						"2.2": {
+							"vector": [-16, 0, 0]
+						}
+					},
+					"scale": {
+						"vector": [1, 1, 1]
+					}
+				},
+				"leftpanel": {
+					"rotation": {
+						"0.2": {
+							"vector": [0, 0, 0]
+						},
+						"1.6": {
+							"vector": [0, 0, -90],
+							"easing": "easeInOutSine"
+						}
+					},
+					"position": {
+						"0.2": {
+							"vector": [0, 0, 0]
+						},
+						"1.6": {
+							"vector": [0, 0, 0],
+							"easing": "easeInOutElastic"
+						},
+						"2.2": {
+							"vector": [16, 0, 0]
+						}
+					},
+					"scale": {
+						"vector": [1, 1, 1]
+					}
+				},
+				"backpanel": {
+					"rotation": {
+						"0.2": {
+							"vector": [0, 0, 0]
+						},
+						"1.6": {
+							"vector": [-90, 0, 0],
+							"easing": "easeInOutSine"
+						}
+					},
+					"position": {
+						"0.2": {
+							"vector": [0, 0, 0]
+						},
+						"1.6": {
+							"vector": [0, 0, 0],
+							"easing": "easeInOutElastic"
+						},
+						"2.2": {
+							"vector": [0, 0, -16]
+						}
+					},
+					"scale": {
+						"vector": [1, 1, 1]
+					}
+				},
+				"toppanel": {
+					"rotation": {
+						"0.2": {
+							"vector": [0, 0, 0]
+						},
+						"0.8": {
+							"vector": [0, 0, 23.33],
+							"easing": "easeInQuad"
+						},
+						"1.6": {
+							"vector": [0, 0, -87.5],
+							"easing": "easeInOutQuad"
+						}
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					},
+					"scale": {
+						"vector": [1, 1, 1]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
