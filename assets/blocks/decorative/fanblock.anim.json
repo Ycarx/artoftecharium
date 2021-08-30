@@ -1,0 +1,21 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"fanblock": {
+			"loop": true,
+			"animation_length": 1.04,
+			"bones": {
+				"bone": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"1.04": {
+							"vector": [0, 0, 720]
+						}
+					}
+				}
+			}
+		}
+	}
+}
