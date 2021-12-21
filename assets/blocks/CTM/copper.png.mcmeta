@@ -1,0 +1,9 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "ctm",
+        "textures": [
+            "artoftecharium/assets/block/CTM/copper-ctm"
+        ]
+    }
+}
